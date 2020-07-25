@@ -1,0 +1,16 @@
+._*
+*.keep
+*.pyc
+*.swp
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.DS_Store
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine
+Network Trash Folder
+Temporary Items
