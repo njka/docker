@@ -2,12 +2,12 @@
 # container for aws cli v2
 
 
-FROM		alpine:3.13.2
+FROM		alpine:3.16.0
 LABEL		maintainer "<njka.github@gmail.com>"
 
 
 # define rev of glibc to be used:
-ENV		GLIBC_VER=2.33-r0
+ENV		GLIBC_VER=2.35-r0
 
 
 # install pre-req tools:
